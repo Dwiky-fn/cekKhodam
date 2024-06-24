@@ -22,7 +22,7 @@ def main():
     """
     <style>
     .stApp {
-        background-image: url('https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/01/2024/06/22/IMG_4326-4177611336.jpg');
+        background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.carousell.com%2Fp%2Flukisan-harimau-putih-1244512754%2F&psig=AOvVaw2r8cX53PVbimV7JzrQ3BbW&ust=1719275736766000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCuu6H_8oYDFQAAAAAdAAAAABAh');
         background-size: cover;
     }
     </style>
